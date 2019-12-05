@@ -26,6 +26,7 @@ import java.util.Arrays;
 public class StatisticsApplication {
 
 	public static void main(String[] args) {
+		// modified
 		SpringApplication.run(StatisticsApplication.class, args);
 	}
 
